@@ -12,8 +12,10 @@ https://www.luogu.com.cn/problem/P1216
 */
 #include <iostream>
 #include <vector>
+
 using namespace std;
-int main() {
+
+void solve() {
     int n;
     cin >> n;
     vector<vector<int> > v(n, vector<int>(n));
@@ -30,5 +32,8 @@ int main() {
         }
     }
     cout << dp[0][0] << endl;
+}
+int main() {
+    solve();
     return 0;
 }
