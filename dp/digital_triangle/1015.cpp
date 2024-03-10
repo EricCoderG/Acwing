@@ -1,6 +1,9 @@
 /*
+[TAG]
+二维DP
+[URL]
 https://www.acwing.com/problem/content/1017/
-
+[INPUT]
 2
 2 2
 1 1
@@ -8,7 +11,7 @@ https://www.acwing.com/problem/content/1017/
 2 3
 2 3 4
 1 6 5
-
+[OUTPUT]
 8
 16
 */

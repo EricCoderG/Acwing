@@ -1,13 +1,16 @@
 /*
+[TAG]
+二维DP
+[URL]
 http://ybt.ssoier.cn:8088/problem_show.php?pid=1287
-
+[INPUT]
 5
 1  4  6  8  10 
 2  5  7  15 17 
 6  8  9  18 20 
 10 11 12 19 21 
 20 23 25 29 33
-
+[OUTPUT]
 109
 */
 

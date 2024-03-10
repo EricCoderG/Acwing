@@ -1,6 +1,9 @@
 /*
+[TAG]
+二维DP|走两次
+[URL]
 http://ybt.ssoier.cn:8088/problem_show.php?pid=1277
-
+[INPUT]
 8
 2 3 13
 2 6 6
@@ -11,7 +14,7 @@ http://ybt.ssoier.cn:8088/problem_show.php?pid=1277
 6 3 15
 7 2 14
 0 0 0
-
+[OUTPUT]
 67
 */
 

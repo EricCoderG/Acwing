@@ -1,6 +1,9 @@
 /*
+[TAG]
+LIS
+[URL]
 http://ybt.ssoier.cn:8088/problem_show.php?pid=1263
-
+[INPUT]
 7
 22 4
 2 6
@@ -9,7 +12,7 @@ http://ybt.ssoier.cn:8088/problem_show.php?pid=1263
 9 8
 17 17
 4 2
-
+[OUTPUT]
 4
 */
 
