@@ -30,8 +30,8 @@ void dfs(int u, int su, int sd) {
     while (k < su && up[k] >= h[u]) k++;
     t = up[k];
     up[k] = h[u];
-    if (k < su) dfs(u + 1, su, sd);
-    else dfs(u + 1, su + 1, sd);
+    if (k < su) dfs(u + 1, su, sd); // up[k] < h[u]
+    else dfs(u + 1, su + 1, sd);  // k == su
     up[k] = t;
 
     k = 0;
